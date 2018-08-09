@@ -1,5 +1,5 @@
 
-<h1>Stripe</h1> Le lien heroku :
+<h1>Stripe & Mailchimp</h1> Le lien heroku :
 
 
 <h2>Version de Ruby :</h2>
