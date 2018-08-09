@@ -1,24 +1,25 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<h1>Stripe</h1> Le lien heroku :
 
-Things you may want to cover:
 
-* Ruby version
+<h2>Version de Ruby :</h2>
 
-* System dependencies
+Ruby version : 2.5.1
 
-* Configuration
+Rails version : 5.2.0
 
-* Database creation
+<h2>Utilisation en local</h2>
 
-* Database initialization
 
-* How to run the test suite
+> <p>git clone https://github.com/bbpucca/stripe.git
 
-* Services (job queues, cache servers, search engines, etc.)
+> cd Cryptocurrencies
 
-* Deployment instructions
+> bundle install 
 
-* ...
+> rails db:create
+
+
+> rails server  
+
+Go sur http://localhost:3000/
