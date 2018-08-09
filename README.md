@@ -13,7 +13,7 @@ Rails version : 5.2.0
 
 > <p>git clone https://github.com/bbpucca/stripe.git
 
-> cd Cryptocurrencies
+> cd stripe
 
 > bundle install 
 
