@@ -1,5 +1,5 @@
 
-<h1>Stripe & Mailchimp</h1> Le lien heroku :
+<h1>Stripe & Mailchimp</h1> Le lien heroku :https://mimistripe.herokuapp.com/
 
 
 <h2>Version de Ruby :</h2>
