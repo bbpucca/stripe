@@ -1,4 +1,6 @@
-<%= form_tag charges_path do %>
+<center>
+
+  <%= form_tag charges_path do %>
   <article>
     <% if flash[:error].present? %>
       <div id="error_explanation">
@@ -6,8 +8,9 @@
       </div>
     <% end %>
     <label class="amount">
-      <span>Amount: $5.00</span>
+      <span> 5€00 pour mon menu Macdo, merci les coupains!</span>
     </label>
+    <p>
   </article>
 
   <script src="https://checkout.stripe.com/checkout.js" class="stripe-button"
@@ -17,3 +20,10 @@
           data-currency="eur"
           data-locale="auto"></script>
 <% end %>
+<p>
+<p>
+
+<img src="https://media3.giphy.com/media/e5xL4bU0ETgLm/giphy.gif" alt="pokemon GIF" style="width: 480px; height: 359.554px; left: 0px; top: 0px; opacity: 1;">
+
+</center>
+
